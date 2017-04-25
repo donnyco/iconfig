@@ -1,0 +1,4 @@
+rootProject.name = 'luway-iconfig-service'
+
+includeFlat ':facade'
+

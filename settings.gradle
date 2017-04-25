@@ -1,0 +1,5 @@
+rootProject.name = 'luway-iconfig'
+
+include 'facade'
+include 'service'
+
